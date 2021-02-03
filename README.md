@@ -14,13 +14,14 @@
     - `conda activate algohelper` 로 가상환경 실행
     - AlgoHelper 디렉토리로 진입 후 `pip install -r requirements.txt`로 패키지 설치
     - 
-  - 
+  - API User, Posting, Reply 구현
 
 - Frontend
   - 컨셉 잡기 - UI 틀 잡기. 폰트, 컬러, 창, 버튼 등 통일
   - Mock up 그리기(프로토타이핑)
-
+  - 
 
 - Deploy
-  - AWS(ec2) 사용?
-
+  - AWS 계정 설정
+  - AWS ec2, rds
+  - 보안 그룹 설정
