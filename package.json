@@ -1,0 +1,23 @@
+{
+  "name": "algohelper",
+  "version": "1.0.0",
+  "description": "알고리즘 공부를 도와주는 웹사이트(웹개발 연습용 플젝)",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pullup-dip-burpee/AlgoHelper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pullup-dip-burpee/AlgoHelper/issues"
+  },
+  "homepage": "https://github.com/pullup-dip-burpee/AlgoHelper#readme"
+}
